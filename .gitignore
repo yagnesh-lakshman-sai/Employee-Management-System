@@ -1,0 +1,21 @@
+# Ignore Eclipse-specific settings
+.classpath
+.project
+.settings/
+
+# Ignore build directory
+/build/
+
+# Ignore target/ or bin/ if present
+/target/
+/bin/
+
+# Ignore temporary or system files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode workspace (if applicable)
+.vscode/
