@@ -28,7 +28,7 @@ A complete Java-based web application for managing employees in an organization.
 
 ## 🗂️ Project Structure
 
-EmployeeManagement/
+<pre> ```EmployeeManagement/
 ├── .classpath
 ├── .project
 ├── .gitignore
@@ -37,7 +37,7 @@ EmployeeManagement/
 │   └── main/
 │       ├── java/
 │       └── webapp/
-└── .settings/
+└── .settings/</pre>```
 
 ## 🚀 How to Run
 
